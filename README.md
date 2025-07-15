@@ -33,7 +33,7 @@ This project showcases a **Sales Dashboard built in Microsoft Excel** to provide
 
 | File Name | Description |
 |-----------|-------------|
-| `Chocolate_Store_Sales_Dashboard.xlsx` | Main Excel file with dashboard and raw data |
+| `https://github.com/Funtrice/SALES-PERFOMANCE-DASHBOARD-WITH-EXCEL/blob/main/new%20%20project%20(Autosaved).xlsx' | Main Excel file with dashboard and raw data |
 | `README.md` | Pivot tables
 | `Screenshots/` | Folder containing images of dashboard visuals |
 
