@@ -51,7 +51,8 @@ Through this project, I improved my:
 
 ## 📌 Screenshot Preview
 
-[C:\Users\USER\Documents\PROJECT CHOCOLATE]
+[[C:\Users\USER\Documents\PROJECT CHOCOLATE]](https://github.com/YourUsername/chocolate-sales-dashboard.git)
+
 
 ---
 
