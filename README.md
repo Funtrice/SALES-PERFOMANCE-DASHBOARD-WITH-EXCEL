@@ -51,7 +51,8 @@ Through this project, I improved my:
 
 ## 📌 Screenshot Preview
 
-[[C:\Users\USER\Documents\PROJECT CHOCOLATE]](https://github.com/YourUsername/chocolate-sales-dashboard.git)
+[[[C:\Users\USER\Documents\PROJECT CHOCOLATE]](https://github.com/YourUsername/chocolate-sales-dashboard.git)](https://github.com/Funtrice/SALES-PERFOMANCE-DASHBOARD-WITH-EXCEL/blob/main/PROJECT%20PICTURE.PNG)
+
 
 
 ---
