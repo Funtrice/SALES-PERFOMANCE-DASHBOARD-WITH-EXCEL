@@ -34,7 +34,7 @@ This project showcases a **Sales Dashboard built in Microsoft Excel** to provide
 | File Name | Description |
 |-----------|-------------|
 | `https://github.com/Funtrice/SALES-PERFOMANCE-DASHBOARD-WITH-EXCEL/blob/main/new%20%20project%20(Autosaved).xlsx' | Main Excel file with dashboard and pivote tables |
-| `README.md` | raw data set
+| `https://github.com/Funtrice/SALES-PERFOMANCE-DASHBOARD-WITH-EXCEL/blob/main/Chocolate%20Sales.csv` | raw data set
 | `Screenshots/` | Folder containing images of dashboard visuals |
 
 ---
@@ -50,8 +50,7 @@ Through this project, I improved my:
 ---
 
 ## 📌 Screenshot Preview
-
-[[[C:\Users\USER\Documents\PROJECT CHOCOLATE]](https://github.com/YourUsername/chocolate-sales-dashboard.git)](https://github.com/Funtrice/SALES-PERFOMANCE-DASHBOARD-WITH-EXCEL/blob/main/PROJECT%20PICTURE.PNG)
+https://github.com/Funtrice/SALES-PERFOMANCE-DASHBOARD-WITH-EXCEL/blob/main/new%20%20project%20(Autosaved).xlsx
 
 
 
